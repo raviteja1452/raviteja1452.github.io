@@ -1,0 +1,37 @@
+body{
+	width: 100%;
+    height: 100%;
+    font-family: Arial;
+    text-align: center;
+    background-color:aquamarine;
+}
+.outer-box{
+	display:inline-block;
+	padding:30px;
+	margin-top:130px;
+	text-align:center;
+	background-color:bisque;
+}
+.inner-box{
+	background-color:beige;
+	padding:20px;
+}
+#H,#R{
+	color:coral;
+	font-weight:500;
+	font-size:25px;
+}
+
+.outer-box h4{
+	font-size: 20px;
+    font-weight: 100;
+    font-family: Helvetica;
+    color:blueviolet;
+    letter-spacing:1px;
+}
+
+.outer-box p{
+	color: darkmagenta;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
